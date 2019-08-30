@@ -1,11 +1,11 @@
 Package: resampledata
 Type: Package
 Title: Data Sets for Mathematical Statistics with Resampling in R
-Version: 0.3.0
+Version: 0.3.1
 Authors@R: c(
     person("Laura", "Chihara", email = "lchihara@carleton.edu", role = "aut"),
     person("Tim", "Hesterberg", email = "TimHesterberg@gmail.com", role = "aut"),
-    person("Albert Y.", "Kim", email = "albert.ys.kim@gmail.com", role = "cre")
+    person("Albert Y.", "Kim", email = "albert.ys.kim@gmail.com", role = c("aut", "cre"))
     )
 Suggests: resample (>= 0.4)
 Maintainer: Albert Y. Kim <albert.ys.kim@gmail.com>
@@ -14,13 +14,13 @@ Description: Package of data sets from "Mathematical Statistics
 Depends: R (>= 2.10)
 License: CC0
 LazyData: TRUE
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 URL: https://github.com/rudeboybert/resampledata
 BugReports: https://github.com/rudeboybert/resampledata/issues
 NeedsCompilation: no
-Packaged: 2018-08-04 01:43:05 UTC; akim04
+Packaged: 2019-08-30 01:17:31 UTC; rudeboybert
 Author: Laura Chihara [aut],
   Tim Hesterberg [aut],
-  Albert Y. Kim [cre]
+  Albert Y. Kim [aut, cre]
 Repository: CRAN
-Date/Publication: 2018-08-04 05:20:03 UTC
+Date/Publication: 2019-08-30 04:20:10 UTC
